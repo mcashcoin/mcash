@@ -1,4 +1,4 @@
-# MCASH IS A EMC20 BASE ETHEREUM TOKEN.
+# MCASH IS A ERC20 BASE ETHEREUM TOKEN.
 
 Ethereum, the popular cryptocurrency and blockchain system, is based on the use of tokens which can be bought, sold, or traded. There are several different tokens which may be used in conjunction with Ethereum, and these differ from ether, which is the currency native to the Ethereum blockchain. Tokens, in this case, represent digital assets that can have a variety of values attached. They can represent assets as diverse as vouchers, IOUs, or even objects in the real world. In this way, tokens are essentially smart contracts that make use of the Ethereum blockchain. One of the most significant token standards of all for Ethereum is called ERC-20, which was developed about a year and a half ago.
 
